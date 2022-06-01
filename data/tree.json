@@ -1,0 +1,59 @@
+{
+  "roots": [
+    {
+      "key": "aaoz5efe71bjm0v9nn7qis8",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "mmwkex06t6zhdp8onn92pn2",
+          "title": "Bars",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "ecc8my9taiix76diak539sg",
+          "title": "Foo",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "qid547b1pv2f0vq33yu346d",
+              "title": "Bar",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "0ykvzem9ajg5ykze7bqmmrc",
+          "title": "Testing",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "aaoz5efe71bjm0v9nn7qis8": null,
+    "ecc8my9taiix76diak539sg": "aaoz5efe71bjm0v9nn7qis8",
+    "qid547b1pv2f0vq33yu346d": "ecc8my9taiix76diak539sg",
+    "0ykvzem9ajg5ykze7bqmmrc": "aaoz5efe71bjm0v9nn7qis8",
+    "mmwkex06t6zhdp8onn92pn2": "aaoz5efe71bjm0v9nn7qis8"
+  }
+}
